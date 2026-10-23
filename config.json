@@ -1,0 +1,21 @@
+{
+  "guild_id": 1511558848081821726,
+  "check_interval_seconds": 300,
+  "bots": [
+    {
+      "name": "Vouice 1",
+      "token": "MTU2Mjk3NjczNjY2NzI0MjU4Ng.GF8qyb.2CUTq6vscyNmz_20RTxfD3xnzOmPPvuobcvzdY",
+      "voice_channel_id": 1511827877249679510
+    },
+    {
+      "name": "Vouice 2",
+      "token": "التوكن_الثاني_هنا",
+      "voice_channel_id": 222222222222222222
+    },
+    {
+      "name": "Vouice 3",
+      "token": "التوكن_الثالث_هنا",
+      "voice_channel_id": 333333333333333333
+    }
+  ]
+}
